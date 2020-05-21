@@ -1,0 +1,13 @@
+/*
+ * Home css File
+*/
+
+.home {
+
+    height: 100vh;
+    padding: 5rem 0 ;
+    background-color: #F5F6F7;
+}
+.title{
+    color: #30AD9D;
+}

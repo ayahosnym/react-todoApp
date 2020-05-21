@@ -1,0 +1,31 @@
+/*
+ * ShowTask css File
+*/
+
+.showTask {
+    /* propertys here */
+    border: 2px solid red;
+}
+
+li {
+    border-bottom: 1px solid #dfdddd;
+    border-radius: 8px;
+    padding: 1rem;
+    position: relative;
+}
+
+.delete-task, .edit-task {
+    cursor: pointer;
+}
+
+.task-done {
+    position: absolute;
+    display: inline-block;
+    width: 17px;
+    height: 17px;
+    border-radius: 30%;
+    border: 2px solid #aea2a2;
+    top: 25px;
+    left: -50px;
+    background: transparent;
+}

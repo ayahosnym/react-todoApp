@@ -1,0 +1,17 @@
+/*
+ * FormAddTask css File
+*/
+
+.formAddTask {
+    /* propertys here */
+    /* height: 100vh; */
+    border: 2px solid green;
+    /* padding: 10rem 0; */
+
+}
+.container{
+    /* border: 2px solid red; */
+}
+.test{
+    display: none;
+}
